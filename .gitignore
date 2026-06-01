@@ -1,0 +1,26 @@
+# Dart / pub
+.dart_tool/
+.packages
+pubspec.lock
+build/
+
+# Coverage output
+coverage/
+
+# Editor / IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+
+# Local working artifacts — do not commit
+CLAUDE.md
+GEMINI.md
+AGENTS.md
+docs/superpowers/
+.superpowers/
+/docs/superpowers/
+test/visual/failures/
+.claude/

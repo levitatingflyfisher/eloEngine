@@ -1,0 +1,21 @@
+name: elo_engine
+description: >-
+  Pure-Dart pairwise ranking engine. Run 15 algorithms (ELO, Glicko-2,
+  TrueSkill, Schulze, and more) from one unified API. No dependencies.
+version: 0.1.0
+# repository, issue_tracker, and homepage intentionally omitted until
+# the OpenHearth GitHub org and a3f.org subdomain are live. Add before
+# first pub.dev publish.
+topics:
+  - ranking
+  - elo
+  - glicko
+  - trueskill
+  - voting
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
