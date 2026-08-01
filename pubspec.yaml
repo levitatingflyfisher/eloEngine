@@ -3,8 +3,7 @@ description: >-
   Pure-Dart pairwise ranking engine. Run 15 algorithms (ELO, Glicko-2,
   TrueSkill, Schulze, and more) from one unified API. No dependencies.
 version: 0.1.0
-# repository, issue_tracker, and homepage intentionally omitted until
-# the OpenHearth GitHub org and a3f.org subdomain are live. Add before
+# repository, issue_tracker, and homepage intentionally omitted until the
 # first pub.dev publish.
 topics:
   - ranking

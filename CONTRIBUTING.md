@@ -105,4 +105,4 @@ By contributing, you agree that your contributions will be licensed under the [M
 
 ## Contact
 
-Questions or proposals that don't fit an issue? Email **dev@a3f.org**.
+Questions or proposals that don't fit an issue? Open an issue and tag it `question`.
